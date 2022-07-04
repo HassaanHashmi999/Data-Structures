@@ -1,8 +1,7 @@
 # Data structures
 
-Implemented in C++ 
 
-Different Assignments and projects 
+Assignments and Project 
 
 Trees, linked list, sorting algorithims and Arrays
 implemented in C++ 
